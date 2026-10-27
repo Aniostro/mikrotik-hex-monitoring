@@ -1,0 +1,6 @@
+# Real credentials live here. Never commit them.
+config.rsc
+*.local.rsc
+*.backup
+*.export.rsc
+.env
